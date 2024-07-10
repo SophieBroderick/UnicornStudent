@@ -5,5 +5,6 @@ Full Stack Development - Python, OpenAI API, HTML/CSS, Node.js, SQLite, AWS
 ![dashboard](https://github.com/SophieBroderick/UnicornStudent/assets/71468832/4e54394e-c8ff-4bf8-b86c-b86d89c6a6be)
 
 Mobile version:
+
 ![Screenshot 2023-08-20 141703](https://github.com/SophieBroderick/UnicornStudent/assets/71468832/3c8ed358-7a99-4dd8-9a84-bfe5c5d53c0b)
 
