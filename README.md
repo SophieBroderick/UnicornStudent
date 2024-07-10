@@ -6,7 +6,6 @@ Full Stack Development - Python, OpenAI API, HTML/CSS, Node.js, SQLite, AWS
 
 Mobile version:
 
-<img src="[https://i.imgur.com/ZWnhY9T.png](https://github.com/SophieBroderick/UnicornStudent/assets/71468832/3c8ed358-7a99-4dd8-9a84-bfe5c5d53c0b)" width=50% height=50%>
+<img src="https://i.imgur.com/ZWnhY9T.png](https://github.com/SophieBroderick/UnicornStudent/assets/71468832/3c8ed358-7a99-4dd8-9a84-bfe5c5d53c0b" width=50% height=50%>
 
-![Screenshot 2023-08-20 141703](https://github.com/SophieBroderick/UnicornStudent/assets/71468832/3c8ed358-7a99-4dd8-9a84-bfe5c5d53c0b)
 
